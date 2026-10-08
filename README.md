@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Talha Caba animated profile hero">
+<img src="./hero.svg" width="100%" alt="Talha Caba animated profile hero">
 
 <br>
 
@@ -122,7 +122,7 @@ NEW IDEAS          ███████████████░░░░░ 
 
 <div align="center">
 
-<img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake">
+<img src="./snake.svg" width="100%" alt="Animated GitHub contribution snake">
 
 </div>
 

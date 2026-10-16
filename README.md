@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-telhacaba-111111?style=for-the-badge&logo=github)](https://github.com/talhacaba)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha_Caba-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/talhacaba/)
-[![Website](https://img.shields.io/badge/Website-talha.gen.tr-111111?style=for-the-badge&logo=googlechrome)](https://talha.gen.tr)
+[![Website](https://img.shields.io/badge/Website-talha.tr-111111?style=for-the-badge&logo=googlechrome)](https://talha.tr)
 
 </div>
 
